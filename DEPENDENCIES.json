@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "OpenZeppelin/openzeppelin-contracts",
+    "version": "v5.4.0",
+    "commit": "c64a1edb67b6e3f4a15cca8909c9482ad33a02b0",
+    "path": "lib/openzeppelin-contracts",
+    "archive_sha256": "cad1e509c993850363d8218383499a0a8c7ac24ba71aeb120c43e96f2448b2fb",
+    "files": 6
+  },
+  {
+    "repository": "foundry-rs/forge-std",
+    "version": "v1.9.7",
+    "commit": "77041d2ce690e692d6e03cc812b57d1ddaa4d505",
+    "path": "lib/forge-std",
+    "archive_sha256": "a387f7c2a10387f889b0d18b999cfa667a5273ac11cc11e18923022eb8b24bc3",
+    "files": 30
+  }
+]
